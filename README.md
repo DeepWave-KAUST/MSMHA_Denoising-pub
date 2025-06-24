@@ -1,8 +1,6 @@
 ![LOGO](https://github.com/DeepWave-Kaust/MSMHA-dev/blob/main/asset/MSMHA_Architecture.png)
 
-Reproducible material for **Unsupervised Multi-Stage Deep Learning Network for Seismic Data Denoising -Omar M. Saad, Matteo Ravasi and Tariq Alkhalifah**
-
-[Click here](https://kaust.sharepoint.com/:f:/r/sites/M365_Deepwave_Documents/Shared%20Documents/Restricted%20Area/REPORTS/DW0046?csf=1&web=1&e=natLJ3) to access the Project Report. Authentication to the _Restricted Area_ filespace is required.
+Reproducible material for **Self-supervised multi-stage deep learning network for seismic data denoising -Omar M. Saad, Matteo Ravasi, and Tariq Alkhalifah**
 
 # Project structure
 This repository is organized as follows:
@@ -36,5 +34,13 @@ conda activate MSMHA
 configurations may be required for different combinations of workstation and GPU.
 
 ## Cite us 
-DW0046 - O. M. Saad, M. Ravasi, T. Alkhalifah (2024) Unsupervised Multi-Stage Deep Learning Network for Seismic Data Denoising.
+```bibtex
+@article{saad2025self,
+  title={Self-supervised multi-stage deep learning network for seismic data denoising},
+  author={Saad, Omar M and Ravasi, Matteo and Alkhalifah, Tariq},
+  journal={Artificial Intelligence in Geosciences},
+  pages={100123},
+  year={2025},
+  publisher={Elsevier}
+}
 
