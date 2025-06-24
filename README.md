@@ -11,7 +11,7 @@ This repository is organized as follows:
 ## Notebooks
 The following notebooks are provided:
 
-- :orange_book: ``MSMHA.ipynb``: notebook performing the denoising;
+- :orange_book: ``MSMHA_Marmousi2.ipynb``: notebook performing the denoising;
 - :orange_book: ``Utils.ipynb``: notebook including models, patching, and unpatching scripts;
 
 
